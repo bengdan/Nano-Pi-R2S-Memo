@@ -6,5 +6,5 @@
 
 ## 固件
 
-* [https://github.com/klever1988/nanopi-openwrt](https://github.com/klever1988/nanopi-openwrt)
+* [Github](https://github.com/klever1988/nanopi-openwrt)
 * [Release](https://github.com/klever1988/nanopi-openwrt/releases)
